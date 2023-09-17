@@ -6,4 +6,4 @@
 - 🌱 I’m presently learning  readme
 - 💬My hobbies are github
 
-- ⚡ Fun fact about me :   *let you know soon *
+- ⚡ Fun fact about me :   *let you know soon*
